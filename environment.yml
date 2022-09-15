@@ -1,0 +1,25 @@
+name: sfmmol
+channels:
+  - conda-forge
+dependencies:
+  - python=3.9
+  - ase
+  - codecov
+  - rdkit
+  - jupyterlab
+  - scikit-learn
+  - networkx
+  - GPy
+  - pip:
+    - xmltodict
+    - jupyter_dash
+    - plotly
+    - dash_bootstrap_components
+  #Dev tools at github commit
+  - black
+  - flake8
+  - isort
+  - pre-commit
+  - pytest
+  - pytest-cov
+  - pdoc3

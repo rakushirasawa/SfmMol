@@ -1,0 +1,16 @@
+O	01-Water
+CS(C)=O	02-DiMethylSulfoxide
+CN(C)C=O	03-NN-DiMethylFormamide
+CC#N	04-Acetonitrile
+CO	05-MeOH
+CCO	06-EtOH
+CC(C)=O	07-Acetone
+CC(C)O	08-2-PrOH
+ClCCl	09-DiChloroMethane
+ClCCCl	10-DichloroEthane
+C1CCOC1	11-THF
+ClC(Cl)Cl	12-Chloroform
+Cc1ccccc1	13-Toluene
+C1COCCO1	14-14-Dioxane
+C1CCCCC1	15-Cyclohexane
+CCCCCC	16-n-Hexane

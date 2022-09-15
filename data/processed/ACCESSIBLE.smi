@@ -1,0 +1,10 @@
+C1=Cc2nc1cc1ccc([nH]1)c(-c1ccccc1)c1nc(cc3ccc([nH]3)c2-c2ccccc2)C=C1	"D2860_87558538_5,15-Diphenylporphyrin"
+C1=Cc2nc1c(-c1ccccc1)c1ccc([nH]1)c(-c1ccccc1)c1nc(c(-c3ccccc3)c3ccc([nH]3)c2-c2ccccc2)C=C1	"AL160997_86280046_5,10,15,20-Tetraphenyl-21H,23H-porphine"
+C1=Cc2nc1c(-c1ccncc1)c1ccc([nH]1)c(-c1ccncc1)c1nc(c(-c3ccncc3)c3ccc([nH]3)c2-c2ccncc2)C=C1	"AL257613_135411729_5,10,15,20-Tetra(4-pyridyl)-21H,23H-porphine"
+O=C(O)c1ccc(-c2c3nc(c(-c4ccccc4)c4ccc([nH]4)c(-c4ccccc4)c4nc(c(-c5ccccc5)c5ccc2[nH]5)C=C4)C=C3)cc1	"C1630_87560694_5-(4-Carboxyphenyl)-10,15,20-triphenylporphyrin"
+Nc1ccc(-c2c3nc(c(-c4ccc(N)cc4)c4ccc([nH]4)c(-c4ccc(N)cc4)c4nc(c(-c5ccc(N)cc5)c5ccc2[nH]5)C=C4)C=C3)cc1	"BPBD234436_135411734_5,10,15,20-Tetrakis(4-aminophenyl)-21H,23H-porphine"
+Oc1ccc(-c2c3nc(c(-c4ccc(O)cc4)c4ccc([nH]4)c(-c4ccc(O)cc4)c4nc(c(-c5ccc(O)cc5)c5ccc2[nH]5)C=C4)C=C3)cc1	"T1497_87577257_5,10,15,20-Tetrakis(4-hydroxyphenyl)porphyrin"
+O=C(O)c1ccc(-c2c3nc(c(-c4ccc(C(=O)O)cc4)c4ccc([nH]4)c(-c4ccc(C(=O)O)cc4)c4nc(c(-c5ccc(C(=O)O)cc5)c5ccc2[nH]5)C=C4)C=C3)cc1	A5015_87563109_TCPP
+Clc1cccc(Cl)c1-c1c2nc(c(-c3c(Cl)cccc3Cl)c3ccc([nH]3)c(-c3c(Cl)cccc3Cl)c3nc(c(-c4c(Cl)cccc4Cl)c4ccc1[nH]4)C=C3)C=C2	"T1438_87577201_5,10,15,20-Tetrakis(2,6-dichlorophenyl)porphyrin"
+O=C(O)COc1ccc(-c2c3nc(c(-c4ccc(OCC(=O)O)cc4)c4ccc([nH]4)c(-c4ccc(OCC(=O)O)cc4)c4nc(c(-c5ccc(OCC(=O)O)cc5)c5ccc2[nH]5)C=C4)C=C3)cc1	"T1495_87577256_5,10,15,20-Tetrakis(4-carboxymethyloxyphenyl)porphyrin"
+Fc1c(F)c(F)c(-c2c3nc(c(-c4c(F)c(F)c(F)c(F)c4F)c4ccc([nH]4)c(-c4c(F)c(F)c(F)c(F)c4F)c4nc(c(-c5c(F)c(F)c(F)c(F)c5F)c5ccc2[nH]5)C=C4)C=C3)c(F)c1F	"AL252921_135401562_5,10,15,20-Tetrakis(pentafluorophenyl)porphyrin"
